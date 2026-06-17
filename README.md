@@ -6,6 +6,7 @@ Division (/)
 Continuous loop until the user types "exit"
 
 #Sample Output#
+
 Enter first number: 10
 
 Enter second number: 5
