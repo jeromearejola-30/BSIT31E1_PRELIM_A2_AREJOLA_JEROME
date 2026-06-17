@@ -1,8 +1,13 @@
 #Features#
+
 Addition (+)
+
 Subtraction (-)
+
 Multiplication (*)
+
 Division (/)
+
 Continuous loop until the user types "exit"
 
 #Sample Output#
