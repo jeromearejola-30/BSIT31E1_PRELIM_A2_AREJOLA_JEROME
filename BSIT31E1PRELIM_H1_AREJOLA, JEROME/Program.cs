@@ -17,15 +17,15 @@ namespace Calculator
 
                 double num1 = double.Parse(input);
 
-                // Ask for the second number
+                
                 Console.Write("Enter second number: ");
                 double num2 = double.Parse(Console.ReadLine());
 
-                // Ask for the operation
+               
                 Console.Write("Enter operation (+, -, *, /): ");
                 string operation = Console.ReadLine();
 
-                // Perform the calculation
+                
                 double result = 0;
 
                 if (operation == "+")
